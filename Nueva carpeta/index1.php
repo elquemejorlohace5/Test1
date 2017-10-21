@@ -10,7 +10,7 @@
 <meta name="Description" content="Internet Jobs" />
 <meta name="Keywords" content="internet, jobs, business, online, marketing" />
 <link rel="stylesheet" type="text/css" href="css/style.css" />
-<title>Internet Jobs</title>
+<title>Internet Jobs1</title>
 </head>
 <body>
 <div id="header">
